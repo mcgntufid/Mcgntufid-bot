@@ -121,7 +121,7 @@ async def credits(ctx):
 @bot.command()
 async def daily(ctx):
     await ctx.send("✅فلوس: 1000 (fake) ")
-bot.run('MTE5ODg3MzI0NDI3NTU5MzM1Nw.G3IWdM.JUyEX4E-KLuUosTenjALy90LMCqezzgS02jT5w')
+bot.run('MessiAndRonaldo')
 
 if entry == 'off':
     print("Ok.")
